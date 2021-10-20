@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BullCowGame-1842.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Courses\C++\Bulls and Cows\BullCowGame-starter-kit\Intermediate\Build\Win64\BullCowGameEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\Courses\C++\Bulls and Cows\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\Cartridge.cpp.obj"
+"E:\Courses\C++\Bulls and Cows\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\Terminal.cpp.obj"
+"E:\Courses\C++\Bulls and Cows\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\BullCowCartridge.cpp.obj"
+"E:\Courses\C++\Bulls and Cows\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\BullCowGame.cpp.obj"
+"E:\Courses\C++\Bulls and Cows\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\BullCowGameGameModeBase.cpp.obj"
+"E:\Courses\C++\Bulls and Cows\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\BullCowCartridge.gen.cpp.obj"
+"E:\Courses\C++\Bulls and Cows\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\BullCowGame.init.gen.cpp.obj"
+"E:\Courses\C++\Bulls and Cows\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\BullCowGameGameModeBase.gen.cpp.obj"
+"E:\Courses\C++\Bulls and Cows\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\Cartridge.gen.cpp.obj"
+"E:\Courses\C++\Bulls and Cows\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\Terminal.gen.cpp.obj"
+"E:\Courses\C++\Bulls and Cows\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\Default.rc2.res"
+/OUT:"E:\Courses\C++\Bulls and Cows\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-1842.lib"

@@ -1,0 +1,5 @@
+E:\Courses\C++\Bulls and Cows\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\Definitions.BullCowGame.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+E:\Courses\C++\Bulls and Cows\BullCowGame-starter-kit\Source\BullCowGame/Console/Terminal.h
+E:\Courses\C++\Bulls and Cows\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Inc\BullCowGame\Terminal.generated.h

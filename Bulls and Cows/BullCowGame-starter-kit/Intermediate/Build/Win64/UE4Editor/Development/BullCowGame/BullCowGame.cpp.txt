@@ -1,0 +1,2 @@
+E:\Courses\C++\Bulls and Cows\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\Definitions.BullCowGame.h
+E:\Courses\C++\Bulls and Cows\BullCowGame-starter-kit\Source\BullCowGame\BullCowGame.h
